@@ -5,3 +5,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 Segunda alteração do texto README.md foi realizada com sucesso :)
 
 Terceira alteração feita com sucesso :)
+
